@@ -5,9 +5,8 @@
 
 <h3 align="left">Skills & Expertise:</h3>
 <p align="left"> 
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/SystemVerilog-121212?style=flat&logo=systemverilog&logoColor=fff" alt="SystemVerilog" width="40" height="40"/> </a> 
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Verilog-121212?style=flat&logo=verilog&logoColor=fff" alt="Verilog" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="40" height="40"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="40" height="40"/> </a>
 </p>
