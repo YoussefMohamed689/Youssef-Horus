@@ -1,63 +1,38 @@
-<h1 align="center">Hello👋،I am Youssef Mohamed</h1>
-<h3 align="center">I am Digital VLSI Engineer 🇪🇬</h3>
+<h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
+<h3 align="center">A passionate Digital VLSI Engineer specializing in IC design and verification.</h3>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.verilog.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog" alt="Verilog" width="40" height="40"/>
-  </a>
-  <a href="https://www.vhdl.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-VHDL-000000?style=flat&logo=vhdl" alt="VHDL" width="40" height="40"/>
-  </a>
-  <a href="https://www.synopsys.com/learning/tools.html" target="_blank">
-    <img src="https://img.shields.io/badge/-Synopsys-3377AA?style=flat&logo=synopsys" alt="Synopsys" width="40" height="40"/>
-  </a>
-  <a href="https://www.cadence.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Cadence-E81D23?style=flat&logo=cadence" alt="Cadence" width="40" height="40"/>
-  </a>
-  <a href="https://www.mentor.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Mentor Graphics-009A6B?style=flat&logo=mentor-graphics" alt="Mentor Graphics" width="40" height="40"/>
-  </a>
-  <a href="https://www.arm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ARM-F47216?style=flat&logo=arm" alt="ARM" width="40" height="40"/>
-  </a>
-  <a href="https://www.xilinx.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Xilinx-0A2C46?style=flat&logo=xilinx" alt="Xilinx" width="40" height="40"/>
-  </a>
-  <a href="https://www.intel.com/content/www/us/en/products/details/fpga-programmable.html" target="_blank">
-    <img src="https://img.shields.io/badge/Intel_FPGA-0071C5?style=flat&logo=intel" alt="Intel FPGA" width="40" height="40"/>
-  </a>
-  <a href="https://www.altera.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Altera-0A2C46?style=flat&logo=altera" alt="Altera" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+---
+
+<h3 align="left">Skills & Expertise:</h3>
+<p align="left"> 
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/SystemVerilog-121212?style=flat&logo=systemverilog&logoColor=fff" alt="SystemVerilog" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Verilog-121212?style=flat&logo=verilog&logoColor=fff" alt="Verilog" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="40" height="40"/> </a>
 </p>
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=youssefmohamed&show_icons=true&theme=vue-dark&hide_border=true)
+<h3 align="center">GitHub Stats:</h3>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamed&layout=compact&theme=vue-dark&hide_border=true)
+<details open>
+ <summary> 📝 <b>Featured Projects:</b> </summary>
+ <br>
+  <ul>
+    <li><a href="https://github.com/Youssef-Mohamed/your_project_name1">Your Project 1 Name</a> - A brief description of the project.</li>
+    <li><a href="https://github.com/Youssef-Mohamed/your_project_name2">Your Project 2 Name</a> - A brief description of the project.</li>
+  </ul>
+</details>
 
 ---
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 
 1. 🔒 Closed issue [#351](https://github.com/index-tts/index-tts/issues/351) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
 2. 🗣 Commented on [#351](https://github.com/index-tts/index-tts/issues/351#issuecomment-3290206376) in [index-tts/index-tts](https://github.com/index-tts/index-tts)
