@@ -1,7 +1,7 @@
-<h1 align="center">مرحباً 👋، أنا يوسف محمد</h1>
-<h3 align="center">مهندس Digital IC متحمس من مصر 🇪🇬</h3>
+<h1 align="center">Hello👋،I am Youssef Mohamed</h1>
+<h3 align="center">I am Digital VLSI Engineer 🇪🇬</h3>
 
-<h3 align="left">اللغات والأدوات:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/c/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
