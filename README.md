@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">A Passionate Digital VLSI Engineer specializing in IC Design and Verification.</h3>
+<h3 align="center">A passionate Digital VLSI Engineer specializing in IC design and verification.</h3>
 
 ---
 
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Verilog-121212?style=flat&logo=verilog&logoColor=fff" alt="Verilog" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="[https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917)" alt="C" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Vivado-0078D6?style=flat&logoColor=white" alt="Vivado" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ModelSim-0078D6?style=flat&logoColor=white" alt="ModelSim" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/QuestaSim-0078D6?style=flat&logoColor=white" alt="QuestaSim" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Verilog-5C728C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Vivado-0078D6?style=for-the-badge&logoColor=white" alt="Vivado" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ModelSim-0078D6?style=for-the-badge&logoColor=white" alt="ModelSim" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/QuestaSim-0078D6?style=for-the-badge&logoColor=white" alt="QuestaSim" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
 </p>
 
 ---
@@ -20,17 +20,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
----
-
-<details open>
- <summary> 📝 <b>Featured Projects:</b> </summary>
- <br>
-  <ul>
-    <li><a href="https://github.com/Youssef-Mohamed/your_project_name1">Your Project 1 Name</a> - A brief description of the project.</li>
-    <li><a href="https://github.com/Youssef-Mohamed/your_project_name2">Your Project 2 Name</a> - A brief description of the project.</li>
-  </ul>
-</details>
 
 ---
 
