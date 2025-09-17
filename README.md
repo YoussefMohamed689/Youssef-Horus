@@ -6,7 +6,7 @@
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Verilog-5C728C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" /> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Vivado-0078D6?style=for-the-badge&logoColor=white" alt="Vivado" /> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ModelSim-0078D6?style=for-the-badge&logoColor=white" alt="ModelSim" /> </a>
